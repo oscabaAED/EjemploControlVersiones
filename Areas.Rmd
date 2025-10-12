@@ -34,3 +34,11 @@ c <- 4
 d <- 6
 AreaRectangulo <- c*d
 ```
+
+# Área trapecio
+```{r}
+b <- 2
+B <- 4
+H <- 2
+AreaTrapecio <- (b+B)*H/2
+```
